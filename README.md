@@ -14,15 +14,15 @@
 ### Описание
 Дан объект, например:
 
-const obj = {name: 'мечник', health: 10, level: 2, attack: 80, defence: 40}
+- const obj = {name: 'мечник', health: 10, level: 2, attack: 80, defence: 40}
 
 Дан порядок сортировки свойств:
 
-["name", "level"]
+- ["name", "level"]
 
 Пример вызова вашей функции:
 
-orderByProps(obj, ["name", "level"])
+- orderByProps(obj, ["name", "level"])
 
 После обработки вашей функцией:
 
